@@ -1,0 +1,9 @@
+Arquivo TIF: /content/drive/MyDrive/ArquivosSegmentacao/imagens-tif-para-recorte/CompoRGB-01-10-2024-METROS.tif
+Coordenadas fornecidas (x, y): 638129.2590091593, 9497831.838033695
+Coordenadas no raster (linha, coluna): 218, 3812
+Tamanho do corte: 200x200
+Valores mínimos RGB: [1264.69, 1352.19, 1183.11]
+Valores máximos RGB: [3512.69, 2944.13, 2668.37]
+Limites da Janela (Em relação ao .tif original) - (xmin, ymin, xmax, ymax): (637125.0, 9498835.0), (639125.0, 9496835.0)
+Imagem salva em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-imagens-metros/imagem-004.png
+Arquivo TXT gerado em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-imagens-metros/imagem-004-RECORTE.txt
