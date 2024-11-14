@@ -1,0 +1,9 @@
+Arquivo TIF: /content/drive/MyDrive/ArquivosSegmentacao/imagens-tif-para-recorte/src-imagem-01-10-2024/S2B_MSIL2A_20241001T125309_N0511_R052_T24MXV_20241001T150159.SAFE/GRANULE/L2A_T24MXV_A039546_20241001T125307/IMG_DATA/R10m/T24MXV_20241001T125309_B08_10m.jp2
+Banda: B08
+Coordenadas fornecidas (latitude, longitude): 9486307.61101058, 629428.9734780518
+Coordenadas no raster (linha, coluna): 1371, 2942
+Tamanho do corte: 200x200
+Valor mínimo: 0
+Valor máximo: 8437
+Imagem salva em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-todas-bandas/B08-imagem-081.tif
+Arquivo TXT gerado em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-todas-bandas/B08-imagem-081-RECORTE.txt
