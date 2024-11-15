@@ -1,9 +1,0 @@
-Arquivo TIF: /content/drive/MyDrive/ArquivosSegmentacao/imagens-tif-para-recorte/src-imagem-01-10-2024/S2B_MSIL2A_20241001T125309_N0511_R052_T24MXV_20241001T150159.SAFE/GRANULE/L2A_T24MXV_A039546_20241001T125307/IMG_DATA/R10m/T24MXV_20241001T125309_B03_10m.jp2
-Banda: B03
-Coordenadas fornecidas (latitude, longitude): 9471353.47245414, 633490.1287344361
-Coordenadas no raster (linha, coluna): 2866, 3349
-Tamanho do corte: 200x200
-Valor mínimo: 0
-Valor máximo: 8372
-Imagem salva em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-todas-bandas/B03-imagem-102.tif
-Arquivo TXT gerado em: /content/drive/MyDrive/ArquivosSegmentacao/dataset-todas-bandas/B03-imagem-102-RECORTE.txt
