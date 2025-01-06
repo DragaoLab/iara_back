@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ee-luisjeronimo044",
+  "private_key_id": "b718e40effd54aa24d771c69b12ad920426136df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+uGkgu3ktquHL\nGRr+pOxYPR3J8b7Sa0ZQbquoj1QoSiiOwFQglXotHxHZPT8/AqSc4Hc3pDE0yBTV\n1+Trd2Of06uyjdUVt0zpx1oy4PsNmIBxHH70RmRqoZE80xwUJRT+xMA12kpyaJYw\nZ1t5kywowcCn9QC6ncgaikwehoZRB4JyR302KHCLfSZV7UG9o3VYTw3oV64+DldH\nEHmdNNx3jrPk64+cH+VF3ax1tk7px0SHLLRQg5yJjyCYYFk6JyZsmsyIfa6lLQwi\ncWHWPMawtROFfuGYmlYr29Eju/bbF3YCk6k1gkq+AI0nrgC0t/fMHRqGdA1vDI1e\n5GtEN+0bAgMBAAECggEAEngUQiW1ge0i6YKYYSGCe7cLa/N7qa/WwtI80Fl06mPo\nEo7gdrlS+Ayis1lhhw4P99sq4FoHo9deYSkDk6Pfo2ohnexrPqueCKOUAgpUdYgX\npByA1NH+Rm83+95rwS2oH1XZUT2+6N5k8PIJYzgT1iyRJhKtS+UcrClJXsljN3Rq\naggm3+7Q3M/JG0jwJyB2Tujut/X1bUUvrLMWBgTwtA5KP0WmC9Ur/H4X09sgmAe2\nzEXhvAU/jfX1HY2eWr1HIIy1noPskJBwP0TW+M549R4ZEmuD29aY48hx1q3HgxjG\njAXrnSd73ROmCABlNMs7aHgHGwZmx+IC753CqADWvQKBgQDgO/gmLfiSYyq1mXCJ\n4Rbxzh0TpxKO7Pk1bukCEm+dvz+e8zYVDZd3ZYrX97neI/r1zHmcD2ygzdVkoAdZ\nzHEpE8iB2e3pUrZC+42almkgEDU39azD3q4jv/oWUSDe6SVxEmSPJl+SFMQsSV8L\n/xET6/drwx6QAD6VzpAWLL2clQKBgQDZvQiSdyWcOKHobx5fPPM8MED1KBeqtnxW\nTrb/dDk0mHFbMFtVGrx4sz5YlA1ngkgHVT6KRXJnkPzfWGvhGci2I3trNGs42SuB\nBUkOJ/1eevF62kebbEFRxKusS9rMZgYzxx8+ZmGLuRZ/VktbhX3mP1NNEHAuTMnc\nJkZnslpG7wKBgEcmYC/lKFlyw+uJe28UkA4743gH7FiTkuPEhITWyrnYJFzQOVnm\nzSfifXLXtQ9qhUgXEINXVZWUmmBqcsqol0N8doPVXatKRnDsltr1XPgCjJBsENy5\nvLG1SappJa/1dJ7zQhs2Bt84XaLbyR/qWEXk+sYjzH/OxA0O1SNkIOodAoGAdTad\n9rrNNFwITOgEoaBeEHipf1Al7XBvXsbhHIOkh/vIih5uDFJoQ1G6rlSFIsOvosLw\n996Kx9X1SwZ+jJ8kvWg8eGmvjtrZ4IrH2ScN7l6gwFHhWnncb/g/snDjSEVj8Vuw\nJhdXS7BHvCToTEyAigJtBX9j5IjR4gF4xTnt/2ECgYEAqOyRdxX4HnLvxJ1qFJiY\n9meGoVT/ymqR/O93GwdyBZIBgrozsJQLGuYqFqanVDZPfG1NrZCBrbzyuCQ6x6L9\nJZohNbn+E6V5wx37nNgSCSG9Hmrt+WSFZ1fNuZKG3nPSzwfURCzuesBA2o4QrIqL\nr/3dLa8vtrOxZOpzwc1dFT4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "viveiro@ee-luisjeronimo044.iam.gserviceaccount.com",
+  "client_id": "113335934786159869725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viveiro%40ee-luisjeronimo044.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
