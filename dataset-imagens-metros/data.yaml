@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/ArquivosSegmentacao/dataset-imagens-metros/train/images
+val: /content/drive/MyDrive/ArquivosSegmentacao/dataset-imagens-metros/valid/images
+test:
+
+nc: 1
+names: ['viveiro']
