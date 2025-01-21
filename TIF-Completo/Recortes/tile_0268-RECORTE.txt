@@ -1,0 +1,9 @@
+Arquivo TIF: /content/drive/MyDrive/IARA(projeto IFCE)/Classificador/CompoRGB-01-10-2024-METROS.tif
+Coordenadas no raster (x, y): (10240, 8960)
+Tamanho do corte: 640x640
+Valores mínimos RGB: [1264.69, 1352.19, 1183.11]
+Valores máximos RGB: [3512.69, 2944.13, 2668.37]
+Limites da Janela (xmin, ymin, xmax, ymax): (702400.00, 9404020.00), (708800.00, 9410420.00)
+Resolução (m/pixel): 10.0x-10.0
+Imagem salva em: /content/drive/MyDrive/IARA(projeto IFCE)/Classificador/Recortes/tile_0268.png
+Arquivo TXT gerado em: /content/drive/MyDrive/IARA(projeto IFCE)/Classificador/Recortes/tile_0268-RECORTE.txt
